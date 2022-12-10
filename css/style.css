@@ -1,0 +1,45 @@
+body{
+	background-color: #3fe8d7;
+}
+.start{
+	background-color: #000000;
+	border-radius: 20px;
+	color: white;
+	margin: 15px;
+	align-self: center;
+	padding:15px 15px;
+	font-size:large;
+}
+
+.nik{
+	margin:25px;
+	font-size: x-large;
+}
+
+.schet{
+	background-color: #8a8ac2;
+	border-radius: 25px;
+	padding: 15px 15px;
+	margin:15px;
+}
+
+.result{
+	background-color: white;
+	border-radius: 30px;
+	padding:20px;
+	width: 50px;
+}
+
+.flex-container {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.flex-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
